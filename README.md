@@ -34,11 +34,12 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 O Calendário da Copa é um projeto que mostra os primeiros jogos do Brasil da Copa de 2022, podendo incluir mais
-jogos nesse calendário.
+jogos nesse calendário dos próximos jogos.
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/2bQblGbbR9jYMHmpY4bvC0/Calend%C3%A1rio-de-Jogos-(Community)?node-id=172%3A179). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/2bQblGbbR9jYMHmpY4bvC0/Calend%C3%A1rio-de-Jogos-(Community)?node-id=172%3A179).
+É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
